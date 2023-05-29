@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(240, 244, 231);
+    
+  
+  }
+  
+  header {
+    background-image: url(foto\ warung.jpeg );
+    background-repeat: no-repeat;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #444242;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
